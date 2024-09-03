@@ -1,0 +1,211 @@
+.img{
+    width: 58px;
+    height: 58px;
+   
+}
+.home-button{
+width: 47px;
+font-style: italic;
+font-size: 16px;
+line-height: 25px;
+background-color: transparent;
+border: 0;
+font-weight: 800;
+margin-top: 9px;
+}
+.contact-button{
+width: 108px;
+font-style: italic;
+font-size: 16px;
+line-height: 25px;
+background-color: transparent;
+border: 0;
+font-weight: 800;
+}
+.inqury-button{
+color: white;
+height: 40px;
+font-weight: bold;
+font-size: 15px;
+line-height: 23px;
+font-style: italic;
+background-color: transparent;
+border: 0;
+margin-left: 10px;
+}
+.main-img{
+background-size: cover;
+width: 100vw;
+height: 900px;
+}
+.arch-img{
+margin-top: 10px;
+width: 541px;
+height: 541px;
+border-radius: 0px 600px 0px 0px;
+}
+.about-h1{
+
+font-weight: bolder;
+text-align: center;
+font-style: italic;
+font-size: 80px;
+font-weight: 900;
+line-height: 80px;
+
+
+}
+.content-p{
+font-size: 16.7264px;
+line-height: 25.089px;
+text-align: left;
+}
+.Get-button{
+    height: 55.5px;
+    width: 206px;
+    background-color: #233AAf;
+    border-radius: 0;
+    border: 0;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+.Learn-button{
+height: 50.9px;
+width: 128.4px;
+border-radius: 0;
+border: 1px solid; 
+border-color: #233AAf;
+font-weight: bold;
+font-style: italic;
+background-color: white;
+color:#233AAf ;
+}
+.header-h1{
+font-size: 56.2px;
+font-style: italic;
+font-weight: 900;
+line-height: 50px;
+margin-top: 20px;
+}
+.p-two{
+    font-size: 16px;
+    line-height: 25px;
+    text-align: left;
+}
+.img-items{
+    width: 354px;
+    height:532px;
+}
+.h1-five{
+font-size: 80px;
+font-style: italic;
+font-weight: 900;
+line-height: 80px;
+margin-top: 0;
+margin-left: 130px;
+color: white;
+
+}
+.p-four{
+font-size: 16px;
+line-height: 25px;
+text-align: left;
+margin-top: 0;
+margin-left: 130px;
+color: white;
+}
+.button-four{
+font-size: 15px;
+font-weight: 900;
+font-style: italic;
+color: white;
+line-height: 23px;
+height: 55px;
+width: 144px;
+margin-left: 130px;
+background-color: #233AAf;
+border-radius: 0;
+border: 0;
+margin-top: 20px;
+}
+.section-five-header{
+font-size: 20px;
+font-weight: 800;
+line-height: 18px;
+font-style: italic;
+display: inline;
+}
+.section-five-p-one{
+font-size: 16px;
+line-height: 25px;
+display: inline;
+}
+.button-five{
+width: 174px;
+height: 55px;
+background-color: #233AAf;
+color: white;
+border-radius: 0;
+border: 0;
+font-size: 15px;
+font-weight: 900;
+font-style: italic;
+line-height: 23px;
+
+}
+.div-five-two-one p{
+display: inline;
+font-size: 15px;
+line-height: 18px;
+font-weight: 900;
+font-style: italic;
+}
+.div-five-two-three p{
+display: inline;
+font-size: 15px;
+line-height: 23px;
+}
+.div-five-two-four p{
+display: inline;
+font-size: 15px;
+line-height: 23px;
+}
+.div-five-two-six p{
+display: inline;
+font-size: 15px;
+line-height: 23px;
+}
+.div-five-two-seven p{
+display: inline;
+font-size: 15px;
+line-height: 23px;
+}
+.div-five-two-nine p{
+display: inline;
+font-size: 15px;
+line-height: 23px;
+}
+.div-five-two-ten p{
+display: inline;
+font-size: 15px;
+line-height: 23px;
+}
+.div-five-three div{
+
+height: 70px;
+width: 204px;
+margin-top: -15px;
+}
+.insta-facebook{
+padding-top: 30px;
+margin-top: -129px;
+height: 24px;
+width: 56px;
+margin-left: 1150px;
+display: grid;
+grid-template-columns: 28px 28px;
+}
+.footer-space{
+height: 40px;
+}

@@ -1,0 +1,184 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+    margin:0;
+    background-color: white;
+    font-family: 'Figtree';
+    
+}
+nav{
+
+
+  
+    width: 1186px;
+    height: 58px;
+    position: absolute;
+    left: 49px;
+    top: 20px;
+    display: grid;
+    grid-template-columns: 58px 315px;
+    grid-template-rows: 58px ;
+    justify-content: space-between;
+  }
+
+  .enqury{
+    display: grid;
+    grid-template-columns:156px 156px;
+    height: 58px;
+    justify-content: space-between;
+    align-items: center;
+   
+   
+  }
+  .home-contact{
+height: 40px;
+width: 159px;
+
+margin-top: 8px;
+font-size: 13px;
+align-items: center;
+
+
+   
+  }
+  .inqury{
+    height: 40px;
+    background-color: rgb(36,63,198);
+    
+
+  }
+  section{
+  
+  
+    width: 100vw;
+  margin-top: 110px;
+    height: 890px;
+
+  }
+  .section-two{
+  margin-top: 40px;
+
+width: 100vw;
+height: 636.67px;
+
+
+  }
+  .about-arch{
+    
+    width: 1143px;
+    height: 541px;
+   margin-left: 65px;
+   display: grid;
+   grid-template-columns: 541px 541px;
+   justify-content: space-between;
+  
+   
+  }
+
+  .aboutus{
+   
+    width: 571px;
+  
+  }
+
+
+.about-div{
+
+margin-top: 73px;
+height: 80.0729px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+aside{
+
+  width:108.33px;
+  height: 271.229px;
+  margin-top: 50px;
+  
+}
+.content{
+
+  height: 175px;
+  width: 433.333px;
+  margin-left: 112px;
+  margin-top: -285px;
+}
+footer{
+
+height: 55.5px;
+width: 433.333px;
+margin-left: 112px;
+margin-top: 37px;
+
+}
+.section-three{
+
+  width: 100vw;
+  height: 700.67px;
+  }
+  .header-content{
+
+height: 150px;
+width: 1143px;
+
+  }
+  .header-div{
+  
+height: 101px;
+width: 600px;
+margin-left: 50px;
+  }
+  .content-two{
+    
+    height: 150px;
+    width: 347px;
+    margin-left: 796px;
+  margin-top: -118px;
+
+  }
+.items{
+
+  height: 532px;
+  width: 1143.33px;
+  margin-left: 50px;
+  display: grid;
+  grid-template-columns: 354px 354px 354px ;
+  justify-content: space-between;
+  background-size: cover;
+  margin-top: 70px;
+
+}
+.section-four{
+  width: 100vw;
+  height: 515px;
+  background-image:url(./img/dark.1.jpg);
+  background-size: cover;
+  margin-top: 160px;
+  display: grid;
+grid-template-rows: 225px 80px 50px 30px ;
+}
+.section-five{
+width: 1143px;
+height: 220px;
+margin: 80px 50px;
+display: grid;
+grid-template-columns: 511px 307px 325px;
+}
+.div-five-one{
+
+display: grid;
+grid-template-rows: 18px 25px 55px;
+row-gap: 30px;
+}
+.div-five-two{
+
+  display: grid;
+  grid-template-rows: 18px 20px 23px 23px 20px 23px 23px 20px 23px 23px;
+  }
+
+
+
